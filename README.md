@@ -34,8 +34,8 @@ To use this project, follow these steps to clone the repository, build the proje
 1. **Clone the Repository** <br>
 First, clone the repository to your local machine using Git:
 ```bash
-git clone https://github.com/Saisandeepsangeetham/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Saisandeepsangeetham/Kafka_Spark_Streaming.git
+cd Kafka_Spark_Streaming
 ```
 2. **Run the Kafka Consumers** <br>
 Navigate to the target/classes/Consumers directory and run the consumer files to start listening for Kafka streams:
